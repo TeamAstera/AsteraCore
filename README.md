@@ -7,7 +7,7 @@ Fastest event system for Minecraft utulity mods.
 - [Orbit](https://github.com/MeteorDevelopment/orbit) for base
 - [AsteraClient](https://discord.gg/yMxcUfddsK) for event class' and AsteraClient
 ## Credits
-- **Tinkoprof:** - [His Github](https://github.com/Tinkoprof) *Astera Dev*
-- **Bobtu56** - [His Github](https://github.com/fakebobtu) *Astera Dev*
-- **Goddanger:** - [His Github](https://github.com/veroneco) *Astera Dev* 
-- **Chronos:** - [His Github](https://github.com/ChronosMain) *Helped for EventHandler*
+- **Tinkoprof:** - *Astera Dev* [his Github](https://github.com/Tinkoprof)
+- **Bobtu56** - *Astera Dev* [his Github](https://github.com/fakebobtu)
+- **Goddanger:** - *Astera Dev* [his Github](https://github.com/veroneco) 
+- **Chronos:** - *Helped for EventHandler*[his Github](https://github.com/ChronosMain)
