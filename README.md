@@ -13,5 +13,3 @@ Fastest event system for Minecraft utility mods.
 - **Bobtu56** *Astera Developer* - [His Github](https://github.com/fakebobtu)
 - **Goddanger:** *Astera Developer* - [His Github](https://github.com/veroneco) 
 - **Chronos:** *Helped for EventHandler* - [His Github](https://github.com/ChronosMain)
-
-[![Discord](https://img.shields.io/discord/798640297453027348?label=Eralp232%27s%20Anarchy%20Community&style=for-the-badge)](https://discord.gg/m5xGEZecmZ)
