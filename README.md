@@ -13,6 +13,6 @@ Fastest event system for Minecraft utility mods.
 - **Bobtu56** *Astera Developer* - [His Github](https://github.com/fakebobtu)
 - **Goddanger:** *Astera Developer* - [His Github](https://github.com/veroneco) 
 - **Chronos:** *Helped for EventHandler* - [His Github](https://github.com/ChronosMain)
-## OTHER
+## Other
 - [AsteraClient Discord](https://discord.gg/NYjDPvay3z)
 - [AsteraClient Youtube](https://www.youtube.com/@asteraclientdevelopment)
