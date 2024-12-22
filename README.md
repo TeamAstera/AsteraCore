@@ -1,4 +1,4 @@
-![text](https://media.discordapp.net/attachments/1145722986410803291/1311748439096168498/image.png?ex=6749fc6e&is=6748aaee&hm=5d57e36b6008939584d07fe7d9fb7c35c4ca1eabf2f9c74b46c6d459df60ff93&=&format=webp&quality=lossless "Astera Logo")
+![text](https://media.discordapp.net/attachments/1284418388361351239/1311747981359448194/image.png?ex=6768f741&is=6767a5c1&hm=ce7cf9671a28f9e01ff7d3a8982a78ffc30a9cf40c6747d6d087805bb5b07be8&=&format=webp&quality=lossless)
 
 # AsteraCore
 ## Description
